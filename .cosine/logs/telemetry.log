@@ -11,3 +11,16 @@ INFO [2023-10-31T04:22:02.164Z]: Set User: 0019915c-fdb1-4667-a096-f74931a1aae0
 INFO [2023-10-31T04:22:02.165Z]: Initializing feature flags
 INFO [2023-10-31T04:22:02.577Z]: Tracking open event
 INFO [2023-10-31T04:22:02.579Z]: {}
+INFO [2023-11-06T08:14:05.172Z]: Tracking open event
+INFO [2023-11-06T08:14:05.173Z]: Creating language service
+INFO [2023-11-06T08:14:05.174Z]: Creating settings service
+INFO [2023-11-06T08:14:05.174Z]: Creating workspace service
+INFO [2023-11-06T08:14:05.175Z]: Creating remote AI
+INFO [2023-11-06T08:14:05.175Z]: Creating feedback service
+INFO [2023-11-06T08:14:05.175Z]: Creating share service
+INFO [2023-11-06T08:14:05.175Z]: Creating workspace controller
+INFO [2023-11-06T08:14:05.175Z]: Enabling workspace listeners
+INFO [2023-11-06T08:14:05.176Z]: Creating source
+INFO [2023-11-06T08:14:05.176Z]: Initializing workspace controller
+INFO [2023-11-06T08:14:05.179Z]: opened
+INFO [2023-11-06T08:14:05.179Z]: {}
